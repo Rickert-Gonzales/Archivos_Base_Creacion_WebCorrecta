@@ -17,3 +17,5 @@ Una ves instalado node.js sigue los siguientes pasos:
 2. Abre la consola con la ruta de tu carpeta `C:\User\Proyectos_Web\Proyecto`.
 3.Iniciamos npm con: **`npm init -y`**. Esto creara una hoja tipo **.json** , dentro modificaremos el nombre (**name**) y ponemos en minusculas la descripcion.
 > **Como aparece**
+![carbon](https://user-images.githubusercontent.com/58580048/80768743-d9522b80-8b10-11ea-8b4f-c2b58e246d3a.png)
+> **Modificado**
